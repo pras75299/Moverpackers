@@ -3,7 +3,7 @@ One page Landing page designed for Mover Packers company to generate enquiries, 
 
 
 ## Table of contents
-- [About Eventplanner](#about-eventplanner)
+- [About Moverpackers](#about-moverpackers)
 - [Features](#features)
 - [Responsibility](#responsibility)
 - [Screenshots](#screenshots)
@@ -11,7 +11,7 @@ One page Landing page designed for Mover Packers company to generate enquiries, 
 
 
 
-## About Eventplanner
+## About Moverpackers
 - This website based on a concept of generating enquiry through landing page, and it can be an advantage for user to call for this service from home, and service provider will help you to move your home or furniture.    - Special Event and Launch Events
     - Moving Home
     - Moving to another city
